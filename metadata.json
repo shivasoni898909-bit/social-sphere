@@ -1,0 +1,8 @@
+{
+  "name": "SocialSphere",
+  "description": "A unified hybrid social ecosystem combining high-intent dating, visual content sharing, and community networking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
